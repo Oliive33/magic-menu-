@@ -123,6 +123,10 @@ body {
 }
 @media screen and (max-width: 385px) {
   .navigation {
-    width: 335px;
+    width: 345px;
+  }
+  .navigation ul li a .text {
+    font-size: 0.55rem;
+    letter-spacing: 0rem;
   }
 }
